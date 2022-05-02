@@ -13,3 +13,4 @@ of the existing literature regarding the use of deep learning in time series for
     - F-WebofScience.xls: results obtained from the query specified in 'SEARCH.txt' made in Web of Science and in Web of Science FECYT.
     - Merged.xlsx: merged results obtained from the queries specified in 'SEARCH.txt' made in all previous database
     - PRISMA_2020_flow_diagram_new_SRs_v1.docx: PRISMA protocol flow for the search.
+    - SOTA NEW BIBTEX.bib: final selected papers to ana;yze, in Bitext format.
